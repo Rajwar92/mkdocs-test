@@ -4,7 +4,7 @@ Appointment Management System integrates and provides a single solution for Appo
 
 The Appointment Scheduling Solution enables truckers to make appointments to drop-off and pick-up international containers. At a grounded multi-mode terminal, container pick-up and drop-off is on a first-come, first-serve basis. With no match between crane capacity and pick-up times, drayage carriers can experience prolonged wait times. The Appointment Scheduling Solution will match the capacity of the crane to incoming traffic and allow motor carriers to make an appointment to pick up their selected container, improving the drayage carrier experience and the flow of shipments through a facility.
 
-This Solution enables location owners and operators to configure appointment windows, define constraints based on multiple parameters, manage users, and communicate with their user base. It will also enable customers to add their containers, track when they are ready for appointment, and make appointments for pick-up, drop-off, and dual missions.
+This Solution enables location owners and operators to configure appointment windows, define constraints based on multiple parameters, manage users, and communicate with their user base. It will also enable customers to add their containers, track when they are ready for appointment, and make appointments for pick-up, drop-off, and dual missions. mervion
 
 ## Features of Appointment Scheduling
 
