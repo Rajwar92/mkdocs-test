@@ -1,9 +1,12 @@
 site_name: Internal Documentation
+repo_url: https://github.com/Rajwar92/mkdocs-test
+edit_uri: edit/master/docs/
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -11,6 +14,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
   language: en
   palette:
     - scheme: default
@@ -25,6 +29,7 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
+
 
 markdown_extensions:
   - abbr
