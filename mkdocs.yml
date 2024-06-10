@@ -1,12 +1,18 @@
-site_name: Internal Documentation
+site_name: MarkDown POC
+
+#REPO
 repo_url: https://github.com/Rajwar92/mkdocs-test
-edit_uri: edit/master/docs/
+edit_uri: edit/Stage/docs/
+theme:
+  icon:
+    repo: fontawesome/brands/git-alt
+
+
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.footer
     - toc.integrate
     - navigation.top
     - search.suggest
