@@ -1,4 +1,4 @@
-# Appointment Management System
+f# Appointment Management System
 
 Appointment Management System integrates and provides a single solution for Appointment Configuration (for Locations) and Appointment Booking (for Motor Carriers/Beneficial Cargo Owners/Logistics Service Providers). Using this Solution, Terminals will be able to manage locations and appointment slots from their end, and motor carriers will be able to consume this data to book appointments for their containers.
 
@@ -26,4 +26,4 @@ The Appointment Scheduling solution contains the following benefits:
 - **Support Appointments across Multiple Stops**: It is the first product in the market to support appointments for Marine Terminals, Rail Terminals, Distribution Centres, and Warehouses, enabling Motor Carriers to make appointments for their complete trip covering multiple stops.
 - **Container Tracking**: With this Solution, Motor Carriers can track their containers and be proactively alerted when appointments can be made for their containers.
 - **Easy Integration with 3rd Party Platforms**: There is easy integration with 3rd party TMS and Dispatch managers to allow appointment bookings with the user’s platform of use.
-- **Fixing Detention and Demurrage**: Appointment Scheduling fixes issues such as Detention and Demurrage by showing all relevant dates and alerting proactively.
+- **Fixing Detention and Demurrage**: Appointment Scheduling fixes issues such as Detention and Demurrage by showing all relevant dates and alerting proactively
