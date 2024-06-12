@@ -9,8 +9,7 @@ Like Google Waze, Blume's network density and real-time data feeds enables corre
 Blume Global provides the following solutions:
 
 ## Blume Logistics
-  - [Appointment Scheduling](../docs/BlumeLogistics/AppointmentScheduling.md)
-  - Asset Management
+  - Appointment Scheduling
   - CarrierGo
   - Freight Audit and Pay
   - Multi Modal TMS
