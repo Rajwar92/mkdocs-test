@@ -1,4 +1,4 @@
-f# Appointment Management System
+# Appointment Management System
 
 Appointment Management System integrates and provides a single solution for Appointment Configuration (for Locations) and Appointment Booking (for Motor Carriers/Beneficial Cargo Owners/Logistics Service Providers). Using this Solution, Terminals will be able to manage locations and appointment slots from their end, and motor carriers will be able to consume this data to book appointments for their containers.
 
