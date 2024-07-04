@@ -23,4 +23,4 @@ The efficiency and complexity of customs clearance processes can differ, impacti
 Participation in trade agreements and preferences can affect customs procedures. Some countries may offer preferential treatment to goods from specific trading partners, influencing the applicable tariffs and requirements.
 
 ## Regulatory Compliance Standards
-Countries may have different standards for regulatory compliance, affecting product certifications and inspections. Understanding and adhering to these standards is essential for customs clearance.
+Countries may have different standards for regulatory compliance, affecting product certifications and inspections. Understanding and adhering to these standards is essential for customs clearance
