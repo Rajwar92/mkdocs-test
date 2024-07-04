@@ -7,5 +7,5 @@ Use the following diagrame to navigate through the Customs Curated Documentation
 ![Customs Curated Content Workflow](<IMG/Customs ContentIND.svg>)
 
 **Related Information**
-- 
-- 
++ [Product Foundation](<../Product Foundation/IntroProd.md>)
++ [Technical Founcation](<../Technical Foundation/IntroTech.md>)
