@@ -20,7 +20,7 @@ Each phase involves a series of activities between suppliers, manufacturers, log
 
 **Figure 1:** The diagram depicts a simple goods movement transaction through the supply chain.
 
-![Simple Goods Movement](IMG/Phases.png)
+![Simple Goods Movement](PIC/Phases.png)
 
 ## Procurement
 
